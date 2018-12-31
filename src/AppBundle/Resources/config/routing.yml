@@ -1,0 +1,3 @@
+bot_try:
+  path: /tryBot
+  defaults: {_controller: AppBundle:Bot:tryBot }
